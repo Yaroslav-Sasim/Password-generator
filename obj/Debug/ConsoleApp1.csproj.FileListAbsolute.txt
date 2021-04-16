@@ -1,0 +1,14 @@
+D:\ПРОГРАММИРОВАНИЕ\S# лабы на заказ\ЗКИ Ярик\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ПРОГРАММИРОВАНИЕ\S# лабы на заказ\ЗКИ Ярик\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ПРОГРАММИРОВАНИЕ\S# лабы на заказ\ЗКИ Ярик\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ПРОГРАММИРОВАНИЕ\S# лабы на заказ\ЗКИ Ярик\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\S# лабы на заказ\ЗКИ Ярик\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\S# лабы на заказ\ЗКИ Ярик\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ПРОГРАММИРОВАНИЕ\S# лабы на заказ\ЗКИ Ярик\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+G:\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
